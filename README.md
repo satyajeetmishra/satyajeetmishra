@@ -17,91 +17,30 @@ Currently, I am working as a Data Science Intern at SquadStack.ai, where I devel
 ---
 
 ## Technical Skills
-
-**Languages:** Python, C++, SQL
-
-**Machine Learning & Deep Learning:**
-
-* Machine Learning
-* Deep Learning
-* NLP
-* Computer Vision
-* Transformers
-* CNNs
-
-**Generative AI & LLMs:**
-
-* RAG
-* LangChain
-* Prompt Engineering
-* Embeddings & Vector Search
-* LLM Evaluation
-
-**Libraries & Frameworks:**
-
-* TensorFlow
-* Keras
-* Scikit-Learn
-* Pandas
-* NumPy
-* OpenCV
-* FAISS
-* LangChain
-* Flask
-* Streamlit
-
-**Tools & Databases:**
-
-* MySQL
-* Git & GitHub
-* MS Excel
-
+| Languages | ML & Deep Learning | Generative AI & LLMs | Libraries, Tools & Databases |
+|------------|-------------------|----------------------|-----------------------------|
+| Python | Machine Learning | RAG | TensorFlow |
+| C++ | Deep Learning | LangChain | Keras |
+| SQL | Computer Vision | Prompt Engineering | Scikit-Learn |
+|  | NLP | Embeddings & Vector Search | Pandas |
+|  | Transformers | FAISS | NumPy |
+|  | CNNs | LLM Evaluation | OpenCV |
+|  |  |  | Flask |
+|  |  |  | Streamlit |
+|  |  |  | MySQL |
+|  |  |  | Git & GitHub |
+|  |  |  | MS Excel |
 ---
 
-## Featured Projects
-
-### LearnMateAI
-
-AI-powered learning assistant that converts handwritten notes into structured text using OCR and enables personalized Q&A and quiz generation through a RAG pipeline.
-
-**Tech Stack:** Python, Tesseract OCR, FAISS, LangChain, GPT-4, Streamlit
-
-### CineFaceInsight
-
-Movie character recognition system built using computer vision and deep learning techniques for face detection and classification.
-
-**Tech Stack:** OpenCV, MTCNN, TensorFlow, Keras, Flask
 
 
 
----
-
-## Achievements
-
-🏆 97 Percentile in JEE Mains 2022
-
-💻 Solved 300+ DSA Problems
-
-🗄️ Solved 100+ SQL Problems
-
----
-
-## Current Focus
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Machine Learning Systems
-* Deep Learning
-* NLP
-* Computer Vision
-
----
 
 ## Connect With Me
 
 📧 Email: [skwork817@gmail.com](mailto:skwork817@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/satyajeet-kumar
+💼 LinkedIn: www.linkedin.com/in/satyajeet-kumar-607644188
 
 🌐 GitHub: github.com/satyajeetmishra
 
