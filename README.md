@@ -2,7 +2,7 @@
 
 🎓 B.Tech Graduate in Engineering and Computational Mechanics from NIT Jamshedpur
 
-🤖 Data Science Intern at SquadStack.ai
+🤖 Ex Data Science Intern at SquadStack.ai
 
 💡 Passionate about Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision, and building AI-powered products that solve real-world problems.
 
